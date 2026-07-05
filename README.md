@@ -1,4 +1,4 @@
-# Assignment 03 — BERT Twitter Sentiment Analysis with PyQt GUI
+BERT Twitter Sentiment Analysis with PyQt GUI
 
 Natural Language Processing Lab — Shifa Tameer-e-Millat University, Islamabad
 
